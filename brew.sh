@@ -12,10 +12,12 @@ brew install git
 brew install curl
 brew install jq
 brew install tree
+brew install mkcert
 
 brew install azure-cli
 brew install kubernetes-cli
 brew install gh
+brew install k9s
 
 brew install neofetch
 brew install oh-my-posh
