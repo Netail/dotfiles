@@ -11,6 +11,7 @@ brew upgrade
 brew install git
 brew install curl
 brew install jq
+brew install yq
 brew install tree
 brew install mkcert
 
